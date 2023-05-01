@@ -381,6 +381,7 @@ html {
     }
 
     .intro__description {
+        margin-right: 0;
         margin-left: -120px;
         padding-left: 120px;
         padding-top: 78px;
