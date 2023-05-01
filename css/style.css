@@ -50,6 +50,11 @@ html {
     min-width: 375px;
 }
 
+body {
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
 .container {
     margin: 0 var(--container-padding);
 }
@@ -202,6 +207,12 @@ html {
     margin: 0;
 
     border: none;
+    background: linear-gradient(90deg, #7A1B1B 0 0) 0 100%/0 1px no-repeat;
+    transition: .2s linear;
+}
+
+.link:hover {
+    background-size: 100% 1px;
 }
 
 .images {
@@ -337,23 +348,28 @@ html {
         display: flex;
         flex-wrap: wrap;
         padding-top: 50px;
+        padding-bottom: 57px;
        }
 
     .statistic {
         flex-direction: column;
-        flex: 1 0 50%;
+        flex: 1 0 37%;
+        row-gap: 42px;
 
         padding-top: 0;
         margin-bottom: 0;
     }
 
     .intro__text {
-        flex: 1 0 50%;
+        flex: 1 0 51%;
+
+        padding-right: 70px;
+        margin-bottom: 0;
     }
 
     .button {
-        margin-top: 66px;
-        margin-bottom: 60px;
+        font-size: 1.8rem;
+        margin-top: 73px;
     }
 
     .images {
