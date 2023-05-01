@@ -69,6 +69,13 @@ html {
 .title--map {
     font-size: 3.4em;
     line-height: 1.222;
+    margin-top: 0;
+    margin-bottom: 31px;
+}
+
+.map-container {
+    width: 100%;
+    height: 486px;
 }
 
 .title--special {
@@ -83,6 +90,10 @@ html {
     text-overflow: ellipsis;
 
     margin: 0 0 16px;
+}
+
+.intro {
+    padding-bottom: 40px;
 }
 
 .intro__description {
@@ -169,8 +180,9 @@ html {
     flex-wrap: wrap;
     gap: 13px;
 
+    padding-left: var(--container-padding);
+    padding-right: var(--container-padding);
     margin: 0 calc(0px - var(--container-padding));
-    padding: 0 var(--container-padding) 40px;
     background: linear-gradient(#F4F5F5 80%, #0000 0 0);
 }
 
@@ -212,6 +224,14 @@ html {
     line-height: 1.25;
 }
 
+.map {
+    padding-top: 27px;
+}
+
+.map__box {
+    margin: 0 var(--container-padding) 38px;
+}
+
 .filter {
     display: flex;
     flex-wrap: wrap;
@@ -232,7 +252,7 @@ html {
 }
 
 .special {
-    padding-top: 31px;
+    padding-top: 32px;
     padding-bottom: 50px;
 }
 
@@ -309,7 +329,7 @@ html {
 
     .images {
         gap: 30px;
-        background: linear-gradient(#F4F5F5 87%, #0000 0 0);
+        background: linear-gradient(#F4F5F5 92%, #0000 0 0);
     }
 
     .images__img {
@@ -327,8 +347,33 @@ html {
         left: 53px;
     }
 
+    .map {
+        padding-top: 47px;
+        padding-bottom: 60px;
+    }
+
+    .map__box {
+        margin-bottom: 31px;
+    }
+
+    .title--map {
+        margin-bottom: 25px;
+    }
+
     .filter {
         gap: 10px;
+    }
+
+    .map-container {
+        width: calc(100% - 2*var(--container-padding));
+        height: 450px;
+
+        margin-left: var(--container-padding);
+        margin-right: var(--container-padding);
+    }
+
+    .special {
+        padding-top: 51px;
     }
 
     .title-box {
@@ -368,7 +413,7 @@ html {
     }
 
     .intro {
-        padding-bottom: 180px;
+        padding-bottom: 121px;
     }
 
     .intro__box {
@@ -432,6 +477,36 @@ html {
         display: none;
     }
 
+    .map {
+        display: flex;
+        margin-left: var(--container-padding);
+        padding-top: 73px;
+        padding-bottom: 80px;
+    }
+
+    .map__box {
+        width: 26%;
+        margin: 0;
+    }
+
+    .title--map {
+        margin-bottom: 34px;
+    }
+
+    .filter {
+        flex-direction: column;
+        row-gap: 17px;
+    }
+
+    .filter__item {
+        width: fit-content;
+    }
+
+    .map-container {
+        width: 100%;
+        margin: 0;
+    }
+
     .title-box {
         display: flex;
         justify-content: space-between;
@@ -440,6 +515,10 @@ html {
 
     .swiper-wrapper {
         margin-top: 0;
+    }
+
+    .special {
+        padding-top: 80px;
     }
 
     .title--special {
@@ -455,8 +534,6 @@ html {
     }
 
 }
-
-
 
 
 

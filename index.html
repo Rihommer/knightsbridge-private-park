@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="js/node_modules/swiper/swiper-bundle.min.css">
     <title>Knightsbridge private park</title>
     <script src="js/node_modules/swiper/swiper-bundle.min.js" defer></script>
-    <script src="https://api-maps.yandex.ru/3.0/?apikey=81def67d-b0fb-4150-9120-1f616854cb87&lang=ru_RU"></script>
+    <script src="https://api-maps.yandex.ru/2.1/?apikey=81def67d-b0fb-4150-9120-1f616854cb87&lang=ru_RU" type="text/javascript"></script>
     <script src="js/swiper.js" defer></script>
     <script src="js/map.js" defer></script>
 </head>
@@ -103,7 +103,7 @@
         </section>
 
         <section class="map">
-            <div class="container">
+            <div class="map__box">
                 <h2 class="title title--map">на&nbsp;карте</h2>
                 <div class="filter">
                     <button class="filter__item">КРАСОТА И&nbsp;ЗДОРОВЬЕ</button>
@@ -112,8 +112,8 @@
                     <button class="filter__item">ДЕТСАД</button>
                     <button class="filter__item">ОТДЫХ, РАЗВЛЕЧЕНИЯ</button>
                 </div>
-                <div id="map" style="width: 600px; height: 400px"></div>
             </div>
+            <div id="map" class="map-container"></div>
         </section>
 
         <section class="special">
