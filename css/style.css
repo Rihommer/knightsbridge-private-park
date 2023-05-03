@@ -326,7 +326,7 @@ body {
     margin-bottom: -10px;
 
     opacity: .1;
-    mask: linear-gradient(#fff 75%, #0000 0 0);
+    clip-path: polygon(0 0, 100% 0, 100% 75%, 0 75%);
 }
 
 .card-slider__text {
