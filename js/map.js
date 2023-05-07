@@ -8,8 +8,6 @@ ymaps.ready(function () {
             '<div style="color: #FFFFFF; font-weight: bold;">$[properties.iconContent]</div>'
         ),
         baby = new ymaps.Placemark([55.729399, 37.576834], {
-            hintContent: 'Собственный значок метки',
-            balloonContent: 'Это красивая метка'
         }, {
             iconLayout: 'default#image',
             iconImageHref: 'inhtml/baby.svg',
@@ -17,8 +15,6 @@ ymaps.ready(function () {
         }),
 
         baby1 = new ymaps.Placemark([55.731699, 37.577834], {
-            hintContent: 'Собственный значок метки',
-            balloonContent: 'Это красивая метка'
         }, {
             iconLayout: 'default#image',
             iconImageHref: 'inhtml/baby.svg',
@@ -26,8 +22,6 @@ ymaps.ready(function () {
         }),
 
         baby2 = new ymaps.Placemark([55.732399, 37.583634], {
-            hintContent: 'Собственный значок метки',
-            balloonContent: 'Это красивая метка'
         }, {
             iconLayout: 'default#image',
             iconImageHref: 'inhtml/baby.svg',
@@ -35,8 +29,6 @@ ymaps.ready(function () {
         }),
 
         beauty = new ymaps.Placemark([55.727499, 37.566734], {
-        hintContent: 'Собственный значок метки',
-        balloonContent: 'Это красивая метка'
         }, {
             iconLayout: 'default#image',
             iconImageHref: 'inhtml/beauty.svg',
@@ -44,8 +36,6 @@ ymaps.ready(function () {
         }),
 
         cinema = new ymaps.Placemark([55.728999, 37.564334], {
-        hintContent: 'Собственный значок метки',
-        balloonContent: 'Это красивая метка'
         }, {
             iconLayout: 'default#image',
             iconImageHref: 'inhtml/cinema.svg',
@@ -53,8 +43,6 @@ ymaps.ready(function () {
         }),
 
         coffee = new ymaps.Placemark([55.731599, 37.562934], {
-        hintContent: 'Собственный значок метки',
-        balloonContent: 'Это красивая метка'
         }, {
             iconLayout: 'default#image',
             iconImageHref: 'inhtml/coffee.svg',
@@ -62,8 +50,6 @@ ymaps.ready(function () {
         }),
 
         coffee1 = new ymaps.Placemark([55.729799, 37.580634], {
-            hintContent: 'Собственный значок метки',
-            balloonContent: 'Это красивая метка'
             }, {
                 iconLayout: 'default#image',
                 iconImageHref: 'inhtml/coffee.svg',
@@ -71,8 +57,6 @@ ymaps.ready(function () {
             }),
 
             coffee2 = new ymaps.Placemark([55.725399, 37.581834], {
-                hintContent: 'Собственный значок метки',
-                balloonContent: 'Это красивая метка'
                 }, {
                     iconLayout: 'default#image',
                     iconImageHref: 'inhtml/coffee.svg',
@@ -80,8 +64,6 @@ ymaps.ready(function () {
                 }),
 
         label = new ymaps.Placemark(myMap.getCenter(), {
-        hintContent: 'Собственный значок метки',
-        balloonContent: 'Это красивая метка'
         }, {
             iconLayout: 'default#image',
             iconImageHref: 'inhtml/label.svg',
@@ -89,8 +71,6 @@ ymaps.ready(function () {
         }),
 
         med = new ymaps.Placemark([55.724699, 37.576834], {
-        hintContent: 'Собственный значок метки',
-        balloonContent: 'Это красивая метка'
         }, {
             iconLayout: 'default#image',
             iconImageHref: 'inhtml/med.svg',
@@ -98,8 +78,6 @@ ymaps.ready(function () {
         }),
 
         med1 = new ymaps.Placemark([55.730299, 37.574434], {
-            hintContent: 'Собственный значок метки',
-            balloonContent: 'Это красивая метка'
             }, {
                 iconLayout: 'default#image',
                 iconImageHref: 'inhtml/med.svg',
@@ -107,8 +85,6 @@ ymaps.ready(function () {
         }),
 
         shop = new ymaps.Placemark([55.730199, 37.560934], {
-        hintContent: 'Собственный значок метки',
-        balloonContent: 'Это красивая метка'
         }, {
             iconLayout: 'default#image',
             iconImageHref: 'inhtml/shop.svg',
@@ -116,8 +92,6 @@ ymaps.ready(function () {
         }),
 
         shop1 = new ymaps.Placemark([55.731199, 37.570534], {
-            hintContent: 'Собственный значок метки',
-            balloonContent: 'Это красивая метка'
             }, {
                 iconLayout: 'default#image',
                 iconImageHref: 'inhtml/shop.svg',
@@ -125,8 +99,6 @@ ymaps.ready(function () {
             }),
 
         shop2 = new ymaps.Placemark([55.732399, 37.575334], {
-            hintContent: 'Собственный значок метки',
-            balloonContent: 'Это красивая метка'
             }, {
                 iconLayout: 'default#image',
                 iconImageHref: 'inhtml/shop.svg',
@@ -134,8 +106,6 @@ ymaps.ready(function () {
             }),
 
         shop3 = new ymaps.Placemark([55.726399, 37.585634], {
-            hintContent: 'Собственный значок метки',
-            balloonContent: 'Это красивая метка'
             }, {
                 iconLayout: 'default#image',
                 iconImageHref: 'inhtml/shop.svg',
@@ -143,8 +113,6 @@ ymaps.ready(function () {
             }),
 
         study = new ymaps.Placemark([55.728399, 37.560434], {
-        hintContent: 'Собственный значок метки',
-        balloonContent: 'Это красивая метка'
         }, {
             iconLayout: 'default#image',
             iconImageHref: 'inhtml/study.svg',
@@ -152,8 +120,6 @@ ymaps.ready(function () {
         }),
 
         study1 = new ymaps.Placemark([55.727299, 37.590134], {
-            hintContent: 'Собственный значок метки',
-            balloonContent: 'Это красивая метка'
             }, {
                 iconLayout: 'default#image',
                 iconImageHref: 'inhtml/study.svg',

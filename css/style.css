@@ -218,7 +218,7 @@ body {
 .images {
     display: flex;
     flex-wrap: wrap;
-    gap: 13px;
+    gap: 11px;
 
     padding-left: var(--container-padding);
     padding-right: var(--container-padding);
