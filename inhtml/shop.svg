@@ -1,29 +1,39 @@
-<svg width="78" height="93" viewBox="0 0 78 93" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g opacity="0.1">
-<path d="M70.9412 62.7982C70.9412 65.4482 60.6701 67.5965 48 67.5965C35.33 67.5965 25.0588 65.4482 25.0588 62.7982C25.0588 60.1482 35.33 58 48 58C60.6701 58 70.9412 60.1482 70.9412 62.7982Z" fill="#31353A"/>
-<path d="M48 69.4815L32.4328 66.3112H63.5672L48 69.4815Z" fill="#31353A"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="46.1px" height="46.5px" viewBox="0 0 46.1 46.5" style="enable-background:new 0 0 46.1 46.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.1;}
+	.st1{fill:#31353A;}
+	.st2{opacity:0.2;}
+	.st3{fill:#7A1B1B;}
+	.st4{fill:#C79791;}
+	.st5{clip-path:url(#SVGID_00000174580218772949138160000011468424072038971813_);}
+	.st6{fill:#FFFFFF;}
+</style>
+<g class="st0">
+	<path class="st1" d="M45.9,39.8c0,2.7-10.3,4.8-22.9,4.8C10.3,44.6,0,42.5,0,39.8C0,37.2,10.3,35,22.9,35
+		C35.6,35,45.9,37.2,45.9,39.8z"/>
+	<path class="st1" d="M22.9,46.5L7.4,43.3h31.1L22.9,46.5z"/>
 </g>
-<g opacity="0.2" filter="url(#filter0_d_1_173)">
-<ellipse cx="48.1765" cy="45.9259" rx="22.9412" ry="22.963" fill="#7A1B1B"/>
+<g class="st2">
+	<ellipse class="st3" cx="23.1" cy="23" rx="22.9" ry="23"/>
 </g>
-<circle cx="48" cy="46" r="18" fill="#C79791"/>
-<g clip-path="url(#clip0_1_173)">
-<path d="M39.6347 41.2762H42.0744L44.55 49.1612C44.6331 49.4259 44.8783 49.6058 45.1557 49.6058H52.885C53.2355 49.6058 53.5197 49.3216 53.5197 48.971C53.5197 48.6205 53.2355 48.3363 52.885 48.3363H45.6217L45.1262 46.7582H53.0595C53.6157 46.7582 54.125 46.3486 54.2439 45.8051L54.9748 42.471C55.0423 42.163 54.9727 41.8514 54.7836 41.6162C54.5945 41.3814 54.3051 41.2464 53.9895 41.2464H43.3959L43.1461 40.4513C43.0629 40.1866 42.8177 40.0067 42.5406 40.0067H39.6347C39.2842 40.0067 39 40.2909 39 40.6415C39 40.992 39.2842 41.2762 39.6347 41.2762ZM53.0207 45.489L44.7694 45.4911C44.7616 45.4887 44.7488 45.4803 44.7437 45.4803C44.7421 45.4803 44.7413 45.4814 44.7415 45.4838L44.4633 44.6372H53.2055L53.0207 45.489ZM43.7944 42.5162H53.666L53.4812 43.3677H44.0618H44.0464L43.7665 42.5162H43.7944Z" fill="white"/>
-<path d="M45.9985 51.9936C46.496 51.9936 46.8993 51.5903 46.8993 51.0928C46.8993 50.5953 46.496 50.192 45.9985 50.192C45.501 50.192 45.0977 50.5953 45.0977 51.0928C45.0977 51.5903 45.501 51.9936 45.9985 51.9936Z" fill="white"/>
-<path d="M51.5775 51.9936C52.075 51.9936 52.4783 51.5903 52.4783 51.0928C52.4783 50.5953 52.075 50.192 51.5775 50.192C51.08 50.192 50.6767 50.5953 50.6767 51.0928C50.6767 51.5903 51.08 51.9936 51.5775 51.9936Z" fill="white"/>
+<circle class="st4" cx="22.9" cy="23" r="18"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="13.9" y="15" width="16" height="16"/>
+	</defs>
+	<clipPath id="SVGID_00000074435299480178512720000001606590287424626075_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000074435299480178512720000001606590287424626075_);">
+		<path class="st6" d="M14.6,18.3H17l2.5,7.9c0.1,0.3,0.3,0.4,0.6,0.4h7.7c0.4,0,0.6-0.3,0.6-0.6c0-0.4-0.3-0.6-0.6-0.6h-7.3
+			l-0.5-1.6H28c0.6,0,1.1-0.4,1.2-1l0.7-3.3c0.1-0.3,0-0.6-0.2-0.9c-0.2-0.2-0.5-0.4-0.8-0.4H18.3l-0.2-0.8C18,17.2,17.8,17,17.5,17
+			h-2.9c-0.4,0-0.6,0.3-0.6,0.6C13.9,18,14.2,18.3,14.6,18.3z M28,22.5l-8.3,0c0,0,0,0,0,0c0,0,0,0,0,0l-0.3-0.8h8.7L28,22.5z
+			 M18.7,19.6h9.9l-0.2,0.9H19h0L18.7,19.6L18.7,19.6z"/>
+		<path class="st6" d="M20.9,29c0.5,0,0.9-0.4,0.9-0.9s-0.4-0.9-0.9-0.9c-0.5,0-0.9,0.4-0.9,0.9S20.4,29,20.9,29z"/>
+		<path class="st6" d="M26.5,29c0.5,0,0.9-0.4,0.9-0.9s-0.4-0.9-0.9-0.9c-0.5,0-0.9,0.4-0.9,0.9S26,29,26.5,29z"/>
+	</g>
 </g>
-<defs>
-<filter id="filter0_d_1_173" x="21.2353" y="22.9629" width="53.8823" height="53.9259" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_173"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_173" result="shape"/>
-</filter>
-<clipPath id="clip0_1_173">
-<rect width="16" height="16" fill="white" transform="translate(39 38)"/>
-</clipPath>
-</defs>
 </svg>

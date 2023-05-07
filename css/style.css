@@ -529,13 +529,14 @@ body {
 
     .map {
         display: flex;
+        margin-right: var(--container-padding);
         margin-left: var(--container-padding);
         padding-top: 73px;
         padding-bottom: 80px;
     }
 
     .map__box {
-        width: 26%;
+        width: 23%;
         margin: 0;
     }
 
@@ -553,7 +554,7 @@ body {
     }
 
     .map-container {
-        width: 100%;
+        width: 77%;
         margin: 0;
     }
 

@@ -1,9 +1,19 @@
-<svg width="45" height="52" viewBox="0 0 45 52" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g opacity="0.1">
-<path d="M44.5869 44.9249C44.5869 47.4609 34.8425 49.5167 22.8222 49.5167C10.8019 49.5167 1.0575 47.4609 1.0575 44.9249C1.0575 42.3889 10.8019 40.333 22.8222 40.333C34.8425 40.333 44.5869 42.3889 44.5869 44.9249Z" fill="#31353A"/>
-<path d="M22.8222 51.3207L8.0533 48.2868H37.5911L22.8222 51.3207Z" fill="#31353A"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="44.6px" height="51.3px" viewBox="0 0 44.6 51.3" style="enable-background:new 0 0 44.6 51.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.1;}
+	.st1{fill:#31353A;}
+	.st2{fill:#C79791;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g class="st0">
+	<path class="st1" d="M44.6,44.9c0,2.5-9.7,4.6-21.8,4.6S1.1,47.5,1.1,44.9s9.7-4.6,21.8-4.6S44.6,42.4,44.6,44.9z"/>
+	<path class="st1" d="M22.8,51.3l-14.8-3h29.5L22.8,51.3z"/>
 </g>
-<path d="M41 21.3134C41 33.0845 31.8218 42.6269 20.5 42.6269C9.17816 42.6269 0 33.0845 0 21.3134C0 9.54235 9.17816 0 20.5 0C31.8218 0 41 9.54235 41 21.3134Z" fill="#C79791"/>
-<path d="M20.5 51L6.58929 36.9179H34.4107L20.5 51Z" fill="#C79791"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M21.8662 7.37012H20.6203V8.67756H21.8662V7.37012ZM18.7591 27.6381L17.5132 28.9456V35.938H18.7591V27.6381ZM23.112 35.938H21.8662V27.5746L19.3795 26.0607L16.8928 28.6703V35.9327H15.647V26.2883L20.6203 21.0639V9.32864H24.3529V10.6361H23.112V35.938Z" fill="white"/>
+<path class="st2" d="M41,21.3c0,11.8-9.2,21.3-20.5,21.3C9.2,42.6,0,33.1,0,21.3C0,9.5,9.2,0,20.5,0C31.8,0,41,9.5,41,21.3z"/>
+<path class="st2" d="M20.5,51L6.6,36.9h27.8L20.5,51z"/>
+<path class="st3" d="M21.9,7.4h-1.2v1.3h1.2V7.4z M18.8,27.6l-1.2,1.3v7h1.2V27.6z M23.1,35.9h-1.2v-8.4l-2.5-1.5l-2.5,2.6v7.3h-1.2
+	v-9.6l5-5.2V9.3h3.7v1.3h-1.2V35.9z"/>
 </svg>
